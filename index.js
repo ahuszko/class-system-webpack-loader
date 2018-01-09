@@ -48,7 +48,7 @@ class Loader {
     }
 }
 
-module.exports = (source, map) => {
+module.exports = function (source, map) {
     if (pattern.test(source) === false) {
         return source;
     }
