@@ -1,6 +1,6 @@
 {
     "name" : "class-system-webpack-loader",
-    "version" : "0.0.1",
+    "version" : "1.0.0",
     "description" : "A module for Webpack to load classes created with class-system.",
     "main" : "index.js",
     "author" : "Attila Huszko <attila.huszko@high-end.hu>",
